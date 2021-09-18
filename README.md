@@ -1,5 +1,5 @@
 # SM4 Group Assessed Practical
-The second assessed practical (group of 4) for the course Statistical Machine Learning of MSc Statistical Science at University of Oxford.
+The second assessed practical (group of 4) for the course Statistical Machine Learning of MSc Statistical Science at University of Oxford in the academic year 2020/21.
 
 ## General Description
 * Course: SB2.2/SM4 Statistical Machine Learning
